@@ -4,6 +4,8 @@ An implementation of the paper [FcaNet: Frequency Channel Attention Networks](ht
 ## how to run
 Code: `python Cifar.py --network fca_resnet20 `
 
+## Updates
+2020-12-31 Conducted some experiments on YOLOv3 and got some positive results. Code will be uploaded in few days.
 ## Notes
 - This project is only for my own study purpose. Please don't star this project because I'm not one of the authors. If you want to try FcaNet, welcome to use the codes and follow the author of the paper--[cfzd](https://github.com/cfzd).
 - The basic code architecture is based on [SENet-cifar10](https://github.com/Jyouhou/SENet-cifar10). Very few tricks are utilized, so the performance may not be satisfying.
